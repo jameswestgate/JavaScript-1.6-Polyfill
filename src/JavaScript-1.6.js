@@ -1,5 +1,5 @@
 /* A polyfill to add the functionality of Javascript 1.6 to IE < 9 */
-/* Copyright James  2012 */
+/* Copyright James  2012 - 2016*/
 /* Dual licensed under the MIT and GPL licenses */
 
 
